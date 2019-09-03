@@ -10,3 +10,7 @@ Recursos principais:
 * [Lista de enunciados da Jurisprudência Selecionada](dados/jurisprudencia_selecionada_enunciados.csv)
 * [Rotinas de processamento de enunciados da Jurisprudência Selecionada](enunciados)
 * [Histórico de treinamentos realizados](Registro%20de%20treinamentos.xlsx)
+
+
+
+Contato: leonardo3108@gmail.com
