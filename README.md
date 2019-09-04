@@ -10,6 +10,7 @@ Recursos principais:
 * [Lista de enunciados da Jurisprudência Selecionada](dados/jurisprudencia_selecionada_enunciados.csv)
 * [Rotinas de processamento de enunciados da Jurisprudência Selecionada](enunciados)
 * [Histórico de treinamentos realizados](Registro%20de%20treinamentos.xlsx)
+* [Vocabulário próprio construído a partir de textos dos acórdãos do TCU](vocabulario)
 
 
 
