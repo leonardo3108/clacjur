@@ -11,7 +11,8 @@ Recursos principais:
 * [Lista de excertos de acórdãos para a Jurisprudência](dados/jurisprudencia_selecionada_excertos.zip)
 * [Rotinas de processamento de enunciados da Jurisprudência Selecionada](enunciados)
 * [Rotinas de processamento de excertos de acórdãos para a Jurisprudência](excertos)
-* [Histórico de treinamentos realizados e comparações de métodos](Registro%20de%20treinamentos.xlsx)
+* [Histórico de treinamentos realizados com enunciados e comparações de métodos](enunciados/Registro-Treinamentos-Enunciados.xlsx)
+* [Histórico de treinamentos realizados com excertos e comparações de métodos](excertos/Registro-Treinamentos-Excertos.xlsx)
 * [Vocabulário próprio construído a partir de textos dos acórdãos do TCU](vocabularios) 
 
 Observações:
