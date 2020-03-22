@@ -9,15 +9,16 @@ Para maior contextuação, e ver trabalho prévio, veja [este relatório](Redes%
 Recursos principais:
 * [Lista de enunciados da Jurisprudência Selecionada](dados/jurisprudencia_selecionada_enunciados.csv)
 * [Lista de excertos de acórdãos para a Jurisprudência](dados/jurisprudencia_selecionada_excertos.zip)
+* [Lista de acórdãos associados à Jurisprudência](dados/acordaos_selecionada.zip)
 * [Rotinas de processamento de enunciados da Jurisprudência Selecionada](enunciados)
 * [Rotinas de processamento de excertos de acórdãos para a Jurisprudência](excertos)
+* [Rotinas de processamento de inteiros teores de acórdãos para a Jurisprudência](acordaos)
 * [Histórico de treinamentos realizados com enunciados e comparações de métodos](enunciados/Registro-Treinamentos-Enunciados.xlsx)
 * [Histórico de treinamentos realizados com excertos e comparações de métodos](excertos/Registro-Treinamentos-Excertos.xlsx)
+* [Histórico de treinamentos realizados com acordaos e comparações de métodos](excertos/Registro-Treinamentos-Acordaos.xlsx)
 * [Vocabulário próprio construído a partir de textos dos acórdãos do TCU](vocabularios) 
 
-Observações:
-* Infelizmente a última versão do vocabulário ficou muito grande para disponibilizar no GitHub, assim como os textos de acórdãos.
-* Deverei, em breve, disponibilizar em outro local.
 
 
 Contato: leonardo3108@gmail.com
+
