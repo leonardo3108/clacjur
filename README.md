@@ -1,6 +1,6 @@
 # CLACJUR
 
-## Classificador Automático de Acórdãos do TCU Conforme Temas de Jurisprudência
+## Classificador Automático de Acórdãos do TCU Conforme Áreas de Jurisprudência
 
 O presente projeto visa verificar a viabilidade de indexação e classificação automática de enunciados de jurisprudência e acórdãos, a partir de textos produzidos ou extraídos e metadados registrados nos sistemas de pesquisa de Jurisprudência, de processos (e-TCU) e do sistema de Jurisprudência (e-Juris) do Tribunal de Contas da União.
 
