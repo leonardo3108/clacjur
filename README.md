@@ -13,6 +13,7 @@ Recursos principais:
 * [Rotinas de processamento de enunciados da Jurisprudência Selecionada](enunciados)
 * [Rotinas de processamento de excertos de acórdãos para a Jurisprudência](excertos)
 * [Rotinas de processamento de inteiros teores de acórdãos para a Jurisprudência](acordaos)
+* [Rotinas de treinamento de modelos não neurais](shallow)
 * [Histórico de treinamentos realizados com enunciados e comparações de métodos](enunciados/Registro-Treinamentos-Enunciados.xlsx)
 * [Histórico de treinamentos realizados com excertos e comparações de métodos](excertos/Registro-Treinamentos-Excertos.xlsx)
 * [Histórico de treinamentos realizados com acordaos e comparações de métodos](excertos/Registro-Treinamentos-Acordaos.xlsx)
